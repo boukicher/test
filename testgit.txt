@@ -1,2 +1,6 @@
 selection des fichiers avec / git add fileName
 enregistrement              / git commit -m 'first commit'  / -m pour commentaire
+avec git log / on peut voir les commit qui donner le nom de personne, date, et explication du commit a quoi il correspond
+git branch / on voit les branches 'master' c la principale, le * pour dire quel branche on se trouve
+git branch 2emebranch
+git checkout 2emebranch / on bascule sur la 2eme branche qu on a cree
