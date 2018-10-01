@@ -1,0 +1,2 @@
+selection des fichiers avec / git add fileName
+enregistrement              / git commit -m 'first commit'  / -m pour commentaire
